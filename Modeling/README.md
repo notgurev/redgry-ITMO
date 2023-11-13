@@ -32,11 +32,9 @@
 <details>
   <summary>Тест ? (30 окт 2023)</summary>
   <img align="middle" alt="микрокр-?" src="./tests/img/test-Y.jpg" /> 
-  Ответы (скорее всего):
+</details>
 
-1. Экспоненциальное
-2. 
-	а) 0.5 с^-1
-	б) 5 с
-	в) 5 шт
+<details>
+  <summary>Тест ? (13 ноя 2023)</summary>
+  <img align="middle" alt="микрокр-?" src="./tests/img/test-Z.jpg" /> 
 </details>
